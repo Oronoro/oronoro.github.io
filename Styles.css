@@ -9,6 +9,7 @@ nav ul {
 
 nav ul li {
   width: 25%;
+  float: left;
 }
 
 nav ul li a {
